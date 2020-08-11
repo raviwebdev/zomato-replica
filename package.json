@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saurabhpathak072/zomato-replica.git"
+    "url": "git+https://github.com/raviwebdev/zomato-replica.git"
   },
   "keywords": [
     "Zomato"
   ],
-  "author": "Saurabh Pathak",
+  "author": "Raviprakash Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saurabhpathak072/zomato-replica/issues"
+    "url": "https://github.com/raviwebdev/zomato-replica/issues"
   },
-  "homepage": "https://github.com/saurabhpathak072/zomato-replica#readme",
+  "homepage": "https://github.com/raviwebdev/zomato-replica#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "node-sass": "^4.13.1",
